@@ -24,5 +24,5 @@ reproductor.reproducir(20);
 reproductor.pausar();
 reproductor.borrar(30);
 reproductor.crearPlaylist('Radio de Frank');
-reproductor.crearPlaylist('HipHop Alternativo');
+reproductor.crearPlaylist('HipHop Alternativo ');
 reproductor.escucharPlaylist('Radio de Frank');
