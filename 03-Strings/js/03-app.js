@@ -11,4 +11,5 @@ console.log(producto + "Con un precio de: " + precio);
 console.log("El producto " + producto + "tiene un precio de: " + precio);
 
 //en vez de poner con signo de mas tambien se puede con signo de dolar y backtip que es la comilla inversa
+// a eso se le conoce como template string
 console.log(`El articulo ${producto} tiene un precio de: $ ${precio}`); 
